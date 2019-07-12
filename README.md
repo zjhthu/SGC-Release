@@ -12,7 +12,7 @@ If you find our work useful in your research, please consider citing:
         }
 
 ### Introduction
-This work is based on our ECCV'18 paper. You can find the paper <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiahui_Zhang_Efficient_Semantic_Scene_ECCV_2018_paper.pdf">here</a> for a quick overview. SGC is designed for accelerating the computation of 3D dense prediction tasks. We conduct experiments on the SUNCG dataset, achieving state-of-the-art performance (84.5% of IoU for scene completion and 70.5% IoU for semantic scene completion) and fast speed.
+This work is based on our ECCV'18 paper. You can find the paper <a href="https://arxiv.org/pdf/1907.05091.pdf">here</a> for a quick overview. SGC is designed for accelerating the computation of 3D dense prediction tasks. We conduct experiments on the SUNCG dataset, achieving state-of-the-art performance (84.5% of IoU for scene completion and 70.5% IoU for semantic scene completion) and fast speed.
 
 In this repository we release code on SUNCG dataset.
 
